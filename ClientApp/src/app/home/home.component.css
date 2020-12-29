@@ -1,0 +1,60 @@
+.bg-container{
+    /* background-image:url("https://image.freepik.com/free-photo/blurred-view-transportation-traffic-jam-city-street-road-during-rush-hour-background_29332-1767.jpg"); */
+    background-color: white;
+    background-size: cover;
+    /* width:100vw; */
+    height:100vh;
+}
+.home-heading{
+    color:black;
+    font-family: "Roboto";
+    font-size:38px;
+    font-weight:bold;
+    padding-top:48px;
+    /* padding-left: 48px; */
+
+}
+.text-content{
+    color:black;
+    font-family:"Roboto";
+    font-size: 26px;
+    padding-top: 24px;
+    /* padding-left: 48px; */
+    line-height: 1.2;
+}
+.info-container{
+    padding-top:50px;
+    padding-left:48px;
+}
+button{
+    margin-top:24px;
+    height:36px;
+    width:128px;
+}
+.img-container{
+    padding-top:48px;
+    height:300px;
+    width:400px;
+}
+.home-img{
+   
+    height:60vh;
+}
+.mission-heading{
+    color:black;
+    font-style: "Roboto";
+    font-size: 36px;
+    text-decoration: underline;
+}
+.mission-img{
+    height:300px;
+    width:500px;
+    padding-left:48px;
+}
+.mission-para{
+    font-size:18px;
+    font-family: "Roboto";
+}
+.mission-content{
+    padding-left:48px;
+}

@@ -1,0 +1,10 @@
+.footer{
+    min-height:30vh;
+    background-color: rgb(1, 1, 61);
+    background-size: cover;
+}
+.colg{
+    color:white;
+    font-style: "Roboto";
+    padding-top:40px;
+}
